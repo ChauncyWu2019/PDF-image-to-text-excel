@@ -21,7 +21,7 @@
 ## 简介
 
 PaddleOCR旨在打造一套丰富、领先、且实用的OCR工具库，助力使用者训练出更好的模型，并应用落地。
-## 推广链接：https://blog.csdn.net/u011984148/article/details/119550542
+**wxd收到的推广链接：**https://blog.csdn.net/u011984148/article/details/119550542
 
 **近期更新**
 
